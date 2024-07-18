@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7781bf8-fa3f-47ba-995b-cd83edf73d12" name="Changes" comment="" />
+    <list default="true" id="b7781bf8-fa3f-47ba-995b-cd83edf73d12" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redditCrawler/myscrapeddata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redditCrawler/myscrapeddata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redditCrawler/quotes-top-ranked.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redditCrawler/quotes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redditCrawler/redditCrawler/spiders/creepypastaCrawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/redditCrawler/redditCrawler/spiders/creepypastaCrawler.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -29,13 +37,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Prototipo/Python/historiasReddit"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Prototipo/Python/historiasReddit/models&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Prototipo\Python\historiasReddit\models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Prototipo\Python\historiasReddit" />
     </key>
@@ -63,7 +75,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
